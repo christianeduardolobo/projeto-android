@@ -110,6 +110,7 @@ main > span{
 }
 main > iframe{
     position: absolute;
+    margin: auto;
     top: 5%;
     left: 5%;
     height: 90%;
